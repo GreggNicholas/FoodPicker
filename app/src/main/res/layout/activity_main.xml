@@ -10,7 +10,7 @@
     <TextView
         android:id="@+id/selected_foodtype_text"
         android:layout_width="wrap_content"
-        android:layout_height="72dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="56dp"
         android:layout_marginBottom="8dp"
         android:fontFamily="@font/marko_one"
@@ -41,7 +41,7 @@
         android:id="@+id/add_Food_text"
         android:layout_width="237dp"
         android:layout_height="55dp"
-        android:layout_marginTop="148dp"
+        android:layout_marginTop="228dp"
         android:hint="Seafood.."
         android:inputType="text"
         android:textSize="18sp"
